@@ -25,7 +25,7 @@ body {
 }
 
 .header {
-    background-image: url(./img/all.jpg);
+    background-image: url(all.jpg);
     padding: 10px;
     border-radius: 8px 8px 0 0;
     text-align: center;
