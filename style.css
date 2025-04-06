@@ -73,7 +73,7 @@ header li:last-child {
 }
 
 .hero {
-  background-image: url(./img/g.jpg);
+  background-image: url(g.jpg);
   background-size: cover;
   min-height: 100vh;
   color: snow;
